@@ -1,4 +1,4 @@
-# Rick & Morty Character Explorer
+# 2024 - Rick & Morty Character Explorer
 
 ## Project Overview
 This was one of my first full-stack projects built in late 2024 as I was learning to combine Django and React. The application fetches and displays character information from the Rick and Morty, showcasing my initial steps into web development.
